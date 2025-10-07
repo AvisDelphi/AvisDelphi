@@ -100,7 +100,7 @@ Here are some topics I’ve worked or studied on:
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/AYMpLIY7OQcAAAAi/cat-meme.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/8tU12KOmAiQAAAAi/happy-cat.gif"/>
 
 ###
 
