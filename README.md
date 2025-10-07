@@ -106,7 +106,7 @@ Here are some topics I’ve worked or studied on:
 
 <div align="center">
   <a href="https://open.spotify.com/user/3156llznd42ogcqjhorghxncfuey">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3156llznd42ogcqjhorghxncfuey&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3156llznd42ogcqjhorghxncfuey&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
